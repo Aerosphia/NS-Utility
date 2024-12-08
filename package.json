@@ -12,7 +12,7 @@
         "axios": "^0.26.1",
         "discord.js": "^13.6.0",
         "dotenv": "^16.0.0",
-        "eslint": "^8.13.0",
+        "eslint": "^8.42.0",
         "js-yaml": "^4.1.0",
         "mongodb": "^4.5.0",
         "noblox.js": "^4.13.1",
